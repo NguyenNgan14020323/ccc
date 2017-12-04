@@ -49,5 +49,5 @@ Ngàn ghép và chỉnh sửa video.
 Video clip thuyết trình của nhóm https://www.youtube.com/watch?v=syIVQ3yc5qg&feature=youtu.be
 
 ### 6. Thực hiện review code (h3)
-Nhóm review code chéo với nhóm KT, sửa lỗi khi nhận được cáo cáo lỗi.
+Nhóm review code chéo với nhóm KT, sửa lỗi khi nhận được cáo cáo lỗi ![tại đây](https://github.com/truonganhhoang/int3117-2017/blob/master/Group/DOA/inspection) 
 
