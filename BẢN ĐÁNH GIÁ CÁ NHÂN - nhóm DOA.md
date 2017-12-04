@@ -4,11 +4,11 @@
 
 ### 1. Thành viên - chấm điểm
 
-Phùng Thị Lương : /10
+- Phùng Thị Lương : /10
 
-Đỗ Trà My : /10
+- Đỗ Trà My : /10
 
-Nguyễn Thị Ngàn : /10
+- Nguyễn Thị Ngàn : /10
 
 ## Chi tiết đánh giá
 
@@ -46,7 +46,7 @@ Lương, My phụ trách làm video hướng dẫn.
 
 Ngàn ghép và chỉnh sửa video.
 
-![Video clip](https://www.youtube.com/watch?v=syIVQ3yc5qg&feature=youtu.be) thuyết trình của nhóm 
+Video clip thuyết trình của nhóm ![tại đây](https://www.youtube.com/watch?v=syIVQ3yc5qg&feature=youtu.be)
 
 ### 6. Thực hiện review code (h3)
 Nhóm review code chéo với nhóm KT, sửa lỗi khi nhận được cáo cáo lỗi.
