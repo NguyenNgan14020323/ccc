@@ -15,7 +15,7 @@
 ### 2. Bài tập khóa học trực tuyến “Software Testing Fundamentals”
 	Cả nhóm cùng hoàn thiện bài tập, tìm hiểu tài liệu và chuẩn bị slide thuyết trình trước cả lớp.
 
-	Đạt được
+	Đạt được: 
 
 	Hoàn thành khóa học nghiêm túc.
 
